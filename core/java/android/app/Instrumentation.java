@@ -74,7 +74,7 @@ import java.util.concurrent.TimeoutException;
 
 import com.android.internal.util.custom.AttestationHooks;
 import com.android.internal.util.custom.GamesPropsUtils;
-import com.android.internal.util.custom.PixelPropsUtils;
+import com.android.internal.util.pixelstar.PixelPropsUtils;
 
 /**
  * Base class for implementing application instrumentation code.  When running
